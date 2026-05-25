@@ -2,6 +2,10 @@
 
 > 情報源: `research/04_拡張機能.md` / `04_拡張機能.md`
 > 作成日: 2026-03-28
+> 更新日: 2026-05-25
+
+> **注意（2026-05）:** `modelcontextprotocol/servers` リポジトリのサードパーティサーバーリストは廃止され、公式 MCP Registry に移行された。サードパーティMCPサーバーの探索には [MCP Registry](https://registry.mcp.run/) を参照。
+> ソース: https://github.com/modelcontextprotocol/servers/commit/d5bfe34
 
 ---
 
