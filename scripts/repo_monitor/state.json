@@ -1,27 +1,27 @@
 {
   "shanraisshan/claude-code-best-practice": {
-    "last_sha": "cfb33c9fce753433bc052c015d616eaa9a37d4a8",
-    "last_date": "2026-03-28T17:46:10Z",
-    "last_message": "update reports to v2.1.86 — command arguments, teammateMode move, Chrome badge + workflow star/skill updates",
-    "checked_at": "2026-03-29T13:42:19Z"
+    "last_sha": "d3f88cd037a2aef97dea12a7fad2ff161d94c0e6",
+    "last_date": "2026-06-28T06:35:34Z",
+    "last_message": "chore(badge): update Last Updated badge to Jun 28, 2026 11:35 AM PKT",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "FlorianBruniaux/claude-code-ultimate-guide": {
-    "last_sha": "146848ca3c0662bacf6fa88bf1de652b58dd7f4a",
-    "last_date": "2026-03-27T22:24:50Z",
-    "last_message": "docs(security): update threat-db v2.10.0 — MCPwnfluence chain, ClawHub ranking exploit, Cisco DefenseClaw",
-    "checked_at": "2026-03-29T13:42:19Z"
+    "last_sha": "11abfdbd4b7cd0ec4799979d9c1e19e788a9388e",
+    "last_date": "2026-06-26T12:05:35Z",
+    "last_message": "test: verify git-ai attribution tracking",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "affaan-m/everything-claude-code": {
-    "last_sha": "527c79350c2162c60c7dd1ce357a925fc7c800a8",
-    "last_date": "2026-03-29T04:26:32Z",
-    "last_message": "Merge pull request #1000 from affaan-m/fix/codex-context7-compat-tests",
-    "checked_at": "2026-03-29T13:42:20Z"
+    "last_sha": "2bc924faf2f8e893bfe0af86b1931283693c30ae",
+    "last_date": "2026-06-25T23:47:35Z",
+    "last_message": "fix(clv2): harden registry writes and project deletion (#2294, #2297) (#2323)",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "anthropics/claude-code-action": {
-    "last_sha": "88c168b39e7e64da0286d812b6e9fbebb6708185",
-    "last_date": "2026-03-29T02:29:10Z",
-    "last_message": "chore: bump Claude Code to 2.1.87 and Agent SDK to 0.2.87",
-    "checked_at": "2026-03-29T13:42:21Z"
+    "last_sha": "a92e7c70a4da9793dc164451d829089dc057a464",
+    "last_date": "2026-06-26T21:30:09Z",
+    "last_message": "chore: bump Claude Code to 2.1.195 and Agent SDK to 0.3.195",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "anthropics/claude-code-monitoring-guide": {
     "last_sha": "02777441f2a3fa38a187b57872ca9dc5e0411b48",
@@ -30,10 +30,10 @@
     "checked_at": "2026-03-29T13:42:21Z"
   },
   "anthropics/claude-agent-sdk-python": {
-    "last_sha": "566e41f7a59377885693082d0e8436d8964a0491",
-    "last_date": "2026-03-29T02:41:21Z",
-    "last_message": "docs: update changelog for v0.1.52",
-    "checked_at": "2026-03-29T13:42:22Z"
+    "last_sha": "b7ce2674e4a884a4cb7048bb77b04547c3716dd1",
+    "last_date": "2026-06-26T21:30:35Z",
+    "last_message": "chore: bump bundled CLI version to 2.1.195",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "anthropics/claude-agent-sdk-demos": {
     "last_sha": "826b268506a5f3707623c9e6140b200befcbebae",
@@ -42,22 +42,22 @@
     "checked_at": "2026-03-29T13:42:22Z"
   },
   "anthropics/skills": {
-    "last_sha": "98669c11ca63e9c81c11501e1437e5c47b556621",
-    "last_date": "2026-03-25T15:10:46Z",
-    "last_message": "chore: update claude-api skill [auto-sync] (#730)",
-    "checked_at": "2026-03-29T13:42:23Z"
+    "last_sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "last_date": "2026-06-27T16:07:56Z",
+    "last_message": "Update claude-api skill: per-SDK doc split, code_execution_20260521, platform-availability, onboardi",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "anthropics/claude-cookbooks": {
-    "last_sha": "44f96bff8aec6849e929e5a074e2dda97d1389ba",
-    "last_date": "2026-03-27T20:02:55Z",
-    "last_message": "Merge pull request #463 from anthropics/montana/knowledge-graph-cookbook",
-    "checked_at": "2026-03-29T13:42:23Z"
+    "last_sha": "34022c55c1fde7056280e01b84f562cb92575cb5",
+    "last_date": "2026-06-09T20:53:19Z",
+    "last_message": "Merge pull request #698 from anthropics/cj-ant/sentry-managed-agent",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "anthropics/claude-quickstarts": {
-    "last_sha": "4b2549e8093a6dee1c394bdd8fcf83cb914a271a",
-    "last_date": "2026-02-05T20:47:08Z",
-    "last_message": "Update computer-use-demo to use text_editor_20250728 exclusively with correct insert_text parameter (#352)",
-    "checked_at": "2026-03-29T13:42:24Z"
+    "last_sha": "f37f1685e256d61b2982b8ae69c857b51efe11bf",
+    "last_date": "2026-05-28T21:02:59Z",
+    "last_message": "Add adaptive thinking support to the computer-use demo (#411)",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "anthropics/courses": {
     "last_sha": "f4dbb137d7b02dddaf3cc73e32e20a702d3b5e77",
@@ -72,22 +72,22 @@
     "checked_at": "2026-03-29T13:42:25Z"
   },
   "trailofbits/claude-code-devcontainer": {
-    "last_sha": "40ca54d41060db20b0b5d7befd36f731b1e61268",
-    "last_date": "2026-03-23T08:18:56Z",
-    "last_message": "Update versions in Dockerfile (#34)",
-    "checked_at": "2026-03-29T13:42:25Z"
+    "last_sha": "6750a78849dcb6f1477c5162a6d2185afcdbefd7",
+    "last_date": "2026-06-18T12:16:08Z",
+    "last_message": "Make install.sh shebang more generic (#46)",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "trailofbits/skills": {
-    "last_sha": "4b9a4e90870ddfdbe24c34a22606ac0d1a62052a",
-    "last_date": "2026-03-27T10:38:32Z",
-    "last_message": "docs(aflpp): add opinionated environment variables guide (#130)",
-    "checked_at": "2026-03-29T13:42:26Z"
+    "last_sha": "39e10bd31e808e4dbf50588dd023fa6197b6b0cc",
+    "last_date": "2026-06-24T18:00:52Z",
+    "last_message": "build(deps): Bump actions/checkout from 6.0.3 to 7.0.0 in the all group (#191)",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "modelcontextprotocol/servers": {
-    "last_sha": "f4244583a6af9425633e433a3eec000d23f4e011",
-    "last_date": "2026-03-17T14:21:11Z",
-    "last_message": "fix(fetch): refresh uv lockfile (#3598)",
-    "checked_at": "2026-03-29T13:42:26Z"
+    "last_sha": "7b1170d1da1e36bc9f553f51e76e64cbfd652b3e",
+    "last_date": "2026-06-17T01:40:51Z",
+    "last_message": "feat(memory): expose knowledge graph as MCP Resource (#3323)",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "disler/claude-code-hooks-mastery": {
     "last_sha": "052ad1cbd5aeb1ec4a1def22012d1293c6225625",
@@ -102,10 +102,10 @@
     "checked_at": "2026-03-29T13:42:28Z"
   },
   "bmad-code-org/BMAD-METHOD": {
-    "last_sha": "ce9c66490ae9b104788010414d94485c614e87dd",
-    "last_date": "2026-03-29T06:22:34Z",
-    "last_message": "refactor(party-mode): consolidate into single SKILL.md with real subagents (#2160)",
-    "checked_at": "2026-03-29T13:42:28Z"
+    "last_sha": "58c1e38be9900c3f07f0373fa2b921f948b91863",
+    "last_date": "2026-06-27T23:42:24Z",
+    "last_message": "fix(review): normalize review layer invocation (#2526)",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "wilwaldon/claude-code-cheat-sheet": {
     "last_sha": "ff8764f4e2783c4068e5afb74a1f491edcb287df",
@@ -114,10 +114,10 @@
     "checked_at": "2026-03-29T13:42:29Z"
   },
   "ryoppippi/ccusage": {
-    "last_sha": "61ee04dcc9c24c1e3720ea20b6d754c7a0d1bdb4",
-    "last_date": "2026-03-28T19:44:09Z",
-    "last_message": "chore: upgrade vitest to v4.1 and add workspace config with GitHub integration (#911)",
-    "checked_at": "2026-03-29T13:42:30Z"
+    "last_sha": "f5cd84c1043b274707485feb989ab3139523a08f",
+    "last_date": "2026-06-27T13:16:43Z",
+    "last_message": "ci: parallelize test steps and fold check into test (#1381)",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "carlosarraes/ccost": {
     "last_sha": "d2149d94f72cab3370b723a863c71bdb6e50d9d2",
@@ -126,10 +126,10 @@
     "checked_at": "2026-03-29T13:42:30Z"
   },
   "FlorianBruniaux/ccboard": {
-    "last_sha": "d9e596f13d91d0fd630eea4d5bfac7808a818b13",
-    "last_date": "2026-03-28T17:31:30Z",
-    "last_message": "docs: v0.20.0 — README + CHANGELOG for MF1/MF3/MF8/MF9",
-    "checked_at": "2026-03-29T13:42:31Z"
+    "last_sha": "9bfda04ba28e6a6e084cf45a5baa33933885241e",
+    "last_date": "2026-06-24T19:38:05Z",
+    "last_message": "fix(ci): track Cargo.lock to pin wasm-bindgen for reproducible builds",
+    "checked_at": "2026-06-29T00:00:00Z"
   },
   "ColeMurray/claude-code-otel": {
     "last_sha": "43263654a369c28e01733fe71f0204084f08eec3",
