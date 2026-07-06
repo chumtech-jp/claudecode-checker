@@ -1,7 +1,7 @@
 # Claude Code エコシステムツールカタログ
 
-> 作成日: 2026-03-28
-> ソース: research/05, 09, 10 に記載された情報のみ
+> 作成日: 2026-03-28（更新: 2026-07-06）
+> ソース: research/05, 07, 09, 10 に記載された情報のみ
 
 ---
 
@@ -18,6 +18,9 @@
 | **agent-orchestrator** | 汎用的なエージェントオーケストレーションフレームワーク | research/05 |
 | **`/orchestrate` コマンド** | マルチエージェントワークフローを調整するビルトインコマンド。`/multi-plan`, `/multi-execute` 等の関連コマンド群を含む（`ccg-workflow` ランタイム必要） | research/05 |
 | **PM2 サービス管理 (`/pm2`)** | PM2ベースのサービスライフサイクル管理。複雑なマルチサービスワークフロー向け。6つの関連コマンドを提供 | research/05 |
+| **Hermes** | ECC v2.0.0で追加された新ハーネス。ECC上のHermesオペレーターストーリー実装。セットアップガイド: `docs/HERMES-SETUP.md` | research/05（ECC v2.0.0, 2026-06-09）|
+| **Kimi Code CLI** | Moonshot AI製コーディングツール（kimi-projectアダプター）。ECCのクロスハーネスOSのインストールターゲットとして2026-07-04に追加 | research/05（ECC commit 2026-07-04）|
+| **OpenClaw** | ECCの新ハーネスインストールターゲット（2026-07-04追加）。注意: CVE-2026-25253（WebSocket RCE）既知。`>=2026.1.29`で修正済み、公開露出ブロック推奨 | research/05, research/08 |
 
 ---
 
